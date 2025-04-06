@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Hunter! 👋</h1>
 
 - 🏫 **I'm a BSc in Cyber Security graduate from Kingston University London, UK.**
