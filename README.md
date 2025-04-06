@@ -1,6 +1,4 @@
-<img style="float: right; margin-left: 20px;" alt="Coding" width="800" src="https://i.gifer.com/3zMk.gif">
-
-
+<img style="float: right; margin-left: 20px; margin-bottom: 20px;" alt="Coding" width="800" src="https://i.gifer.com/3zMk.gif">
 
 ## Hi, I'm Hunter! 👋
 
@@ -43,4 +41,3 @@ Here’s a quick look at my GitHub activity:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=YxngHunter&icon=0&color=0)](https://visitcount.itsvg.in)
-
