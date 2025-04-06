@@ -1,5 +1,3 @@
-<img style="float: right; margin-left: 20px; margin-bottom: 20px;" alt="Coding" width="800" src="https://i.gifer.com/3zMk.gif">
-
 ## Hi, I'm Hunter! 👋
 
 - 🏫 **I'm a BSc in Cyber Security graduate from Kingston University London, UK.**
