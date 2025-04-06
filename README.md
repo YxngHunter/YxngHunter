@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Something about me:
-
 - 🔭 **Currently working on:** website
 - 🌱 **Learning:** C++
 - ⚡ **Fun fact:** I love memes!
