@@ -3,7 +3,7 @@
 - 🏫 **I'm a BSc in Cyber Security graduate from Kingston University London, UK.**
 - 💻 **Mainly focusing on web development, but I'm also proficient in other programming languages.**
 - 👨🏼‍💻 **Working as a web developer since 2022.**
-- ⚡ **Fun fact: Big fan of Chief Keef**
+- ⚡ **Fun fact: Big fan of Big Gucci Sosa, aka Chief Keef himself.**
 
 ---
 
