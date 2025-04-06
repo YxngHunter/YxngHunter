@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Something about the work:
+Something about me:
 
 - 🔭 **Currently working on:** website
 - 🌱 **Learning:** C++
