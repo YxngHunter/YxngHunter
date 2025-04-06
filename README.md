@@ -1,6 +1,10 @@
+<img style="float: right; margin-left: 20px;" alt="Coding" width="800" src="https://i.gifer.com/3zMk.gif">
+
+
+
 ## Hi, I'm Hunter! 👋
 
-- 🏫 **I'm a BSc in Cyber Security graduate from the Kingston University London, UK.**
+- 🏫 **I'm a BSc in Cyber Security graduate from Kingston University London, UK.**
 - 💻 **Mainly focusing on web development, but I'm also proficient in other programming languages.**
 - ⚡ **Fun fact: I love memes!**
 
@@ -27,7 +31,6 @@ Here are some of the software and programming languages I have experience with:
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-
 ---
 
 # 📊 GitHub Stats
@@ -40,3 +43,4 @@ Here’s a quick look at my GitHub activity:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=YxngHunter&icon=0&color=0)](https://visitcount.itsvg.in)
+
