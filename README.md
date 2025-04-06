@@ -2,7 +2,7 @@
 
 - 🏫 **I'm a BSc in Cyber Security graduate from the Kingston University London, UK.**
 - 💻 **Mainly focusing on web development, but I'm also proficient in other programming languages**
-- ⚡ **Fun fact:** I love memes!
+- ⚡ **Fun fact: I love memes!**
 
 ---
 
