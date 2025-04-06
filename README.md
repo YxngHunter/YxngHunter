@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi, I'm Hunter! 👋
 
 - 🔭 **Currently working on:** website
 - 🌱 **Learning:** C++
