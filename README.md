@@ -1,6 +1,6 @@
 ## Hi, I'm Hunter! 👋
 
-- 🔭 **Currently working on:** website
+- 🏫 **I am a BSc in Cyber Security graduate from the Kingston University London, UK.**
 - 🌱 **Learning:** C++
 - ⚡ **Fun fact:** I love memes!
 
