@@ -14,7 +14,7 @@ On top of that, I'm familiar with other programming languages too, such as Pytho
 ---
 
 # 💻 Tech Stack
-Here are some of the software and programming languages I have experience with:
+**Here are some of the software and programming languages I have experience with:**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
